@@ -133,6 +133,7 @@ A few of the things you can do with GithubCrypt:
 
 - [Bhushan Wanjari](https://github.com/Bhushan21z)
 - [Anjali Kushwaha](https://github.com/Anjali2201)
+- [Rohit Bhojwani](https://github.com/Rohitbhojwani)
 
 # Build Process
 
